@@ -1,0 +1,101 @@
+_repo: The-gift-of-friendship_57837
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Hyatt, Alfred H.
+    gutenberg_agent_id: '49634'
+    url: http://www.gutenberg.org/2009/agents/49634
+  illustrator:
+    agent_name: Macgoun, H.C. Preston
+    gutenberg_agent_id: '49635'
+    url: http://www.gutenberg.org/2009/agents/49635
+creator:
+  authors:
+  - agent_name: Mackenzie, Henry
+    alias: Mackenzie, H. (Henry)
+    birthdate: 1745
+    deathdate: 1831
+    gutenberg_agent_id: '1693'
+    url: http://www.gutenberg.org/2009/agents/1693
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Mackenzie
+  - agent_name: Bacon, Francis
+    aliases:
+    - St. Albans, Francis Bacon, Viscount
+    - Verulam, Francis Bacon
+    birthdate: 1561
+    deathdate: 1626
+    gutenberg_agent_id: '296'
+    url: http://www.gutenberg.org/2009/agents/296
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Bacon
+  - agent_name: Johnson, Dr.
+    gutenberg_agent_id: '49631'
+    url: http://www.gutenberg.org/2009/agents/49631
+  - agent_name: Carlyle, Thomas
+    alias: Carlyle, T. (Thomas)
+    birthdate: 1795
+    deathdate: 1881
+    gutenberg_agent_id: '523'
+    url: http://www.gutenberg.org/2009/agents/523
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Carlyle
+  - agent_name: Montaigne, Michel de
+    aliases:
+    - Montaigne, Michel Eyquem de
+    - Montagne, Michel de
+    birthdate: 1533
+    deathdate: 1592
+    gutenberg_agent_id: '1230'
+    url: http://www.gutenberg.org/2009/agents/1230
+    wikipedia: http://en.wikipedia.org/wiki/Michel_de_Montaigne
+  - agent_name: Anthusa
+    gutenberg_agent_id: '49633'
+    url: http://www.gutenberg.org/2009/agents/49633
+  - agent_name: Steele, Sir Richard
+    gutenberg_agent_id: '49632'
+    url: http://www.gutenberg.org/2009/agents/49632
+  - agent_name: Berkeley, George
+    alias: Berkley, George
+    birthdate: 1685
+    deathdate: 1753
+    gutenberg_agent_id: '1497'
+    url: http://www.gutenberg.org/2009/agents/1497
+    wikipedia: http://en.wikipedia.org/wiki/George_Berkeley
+  - agent_name: Thoreau, H. D.
+    gutenberg_agent_id: '49630'
+    url: http://www.gutenberg.org/2009/agents/49630
+  - agent_name: Addison, Joseph
+    alias: Bickerstaff, Isaac
+    birthdate: 1672
+    deathdate: 1719
+    gutenberg_agent_id: '1024'
+    url: http://www.gutenberg.org/2009/agents/1024
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Addison
+  - agent_name: Goldsmith, Oliver
+    alias: Goldsmit, Oliver
+    deathdate: 1774
+    gutenberg_agent_id: '211'
+    url: http://www.gutenberg.org/2009/agents/211
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Goldsmith
+  - agent_name: Aristotle
+    aliases:
+    - Αριστοτέλης
+    - Aristoteles
+    birthdate: -384
+    deathdate: -322
+    gutenberg_agent_id: '2747'
+    url: http://www.gutenberg.org/2009/agents/2747
+    wikipedia:
+    - http://el.wikipedia.org/wiki/%CE%91%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%84%CE%AD%CE%BB%CE%B7%CF%82
+    - http://en.wikipedia.org/wiki/Aristotle
+description: ''
+gutenberg_issued: '2018-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57837'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The gift of friendship
+url: http://www.gutenberg.org/ebooks/57837
